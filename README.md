@@ -37,9 +37,13 @@ while True:
 
 ## OUPUT
 server
+
+
 ![image](https://github.com/Priyanghaofficial/3b_CHAT_USING_TCP_SOCKETS/assets/147121154/74b5503f-6551-4c3b-9f20-2a6005f5a4a0)
 
 client
+
+
 ![image](https://github.com/Priyanghaofficial/3b_CHAT_USING_TCP_SOCKETS/assets/147121154/2b2650cb-7e5d-46ad-b2b2-8fc4a1cc8d44)
 
 
